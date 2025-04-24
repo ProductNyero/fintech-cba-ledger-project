@@ -10,12 +10,12 @@ It includes mock tables for customers, accounts, and transactions, with SQL quer
 - Transactions: Ledger of money movements
 
 ## Business use cases addressed
-- Customers who signed up in 2024
+- Customers who signed up in a particular year
 - Identify transactions with service charges
 - Search transactions for a particular customer ID
-- Identify customers whose first name contain letter 'e'
-- Search for transactions with amount = 200
-- Flag transactions above 1000
+- Identify customers whose first name contain a specific letter
+- Search for transactions with a particular balance amount 
+- Flag transactions above a specific figure
 - Identify users with current_account type
 
 ## Tools Used
@@ -30,4 +30,4 @@ It includes mock tables for customers, accounts, and transactions, with SQL quer
 - How to plug data into database environment in mysql workbench
 - Querying several defined business use cases in mysql workbench
 - Creating a .sql file in visual studio code
-- 
+  
