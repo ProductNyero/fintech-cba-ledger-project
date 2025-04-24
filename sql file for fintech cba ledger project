@@ -1,0 +1,46 @@
+--Business Use Case 1: Customers who signed up in 2024
+USE `Fintech CBA Ledger`;
+
+SELECT *
+FROM customers
+WHERE created_at = 2024; 
+
+
+
+--Business Use Case 2: Identify transactions with service charges
+SELECT *
+FROM transactions
+WHERE description LIKE '%service charge%';
+
+
+-- Business Use Case 3: Search transactions for a particular customer ID
+SELECT *
+FROM transactions
+WHERE account_id = 11
+
+
+
+-- Business Use Case 4: Identify customers whose first name contain letter 'e'
+SELECT *
+FROM customers
+WHERE first_name LIKE '%e%'
+
+
+-- Business Use Case 5: Search for transactions with amount = 200
+SELECT *
+FROM transactions
+WHERE amount > '200'; 
+
+
+-- Business Use Case 6: Flag transactions above 1000
+SELECT * 
+FROM transactions
+WHERE amount > '1000';
+
+
+-- Business Use Case 7: Identify users with current_account type
+SELECT *
+FROM accounts
+WHERE account_type = 'current'
+
+

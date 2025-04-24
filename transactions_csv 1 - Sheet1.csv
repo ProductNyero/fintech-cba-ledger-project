@@ -1,0 +1,15 @@
+transaction_id,account_id,transaction_type,amount,description,created_at,reference
+1,1,debit,100.23,ATM withdrawal fee,2025-01-10 12:30:00,TXN-20250110-0001
+2,1,credit,50000.51,Salary payment,2024-02-15 14:45:00,TXN-20240215-0002
+3,2,debit,50.01,Service charge,2024-12-20 8:00:00,TXN-20241220-0003
+4,2,credit,150.15,Interest accrual,2024-09-05 13:00:00,TXN-20240905-0004
+5,3,debit,200.02,Airtime,2024-10-01 9:00:00,TXN-20241001-0005
+6,4,credit,300.05,Tip,2024-11-20 16:20:00,TXN-20241120-0006
+7,5,debit,250.25,Maintenance fee,2024-08-01 10:00:00,TXN-20240801-0007
+8,6,credit,500.75,Family gift,2024-06-15 17:45:00,TXN-20240615-0008
+9,7,debit,100.43,POS charge,2024-11-22 11:30:00,TXN-20241122-0009
+10,8,credit,800.99,Interest accrual,2024-01-05 14:00:00,TXN-20240105-0010
+11,9,debit,40.41,Service charge,2024-01-25 9:15:00,TXN-20240125-0011
+12,10,credit,120.21,Salary deposit,2024-12-17 8:20:00,TXN-20241217-0012
+13,11,debit,250.25,Transaction fee,2023-11-15 13:30:00,TXN-20231115-0013
+14,12,credit,1000.19,Bank transfer from John,2024-08-15 9:00:00,TXN-20240815-0014

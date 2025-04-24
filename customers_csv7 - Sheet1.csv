@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,phone_number,created_at
+1,John,Lakowe,lakwowej@gmail.com,(+234) 7012345678,2024-01-10
+2,Jane,Odumodu,janeodumodu@gmail.com,(+234) 8034567890,2024-08-15
+3,Solawale,Kola,solakola@gmail.com,(+234) 8123456789,2024-05-05
+4,Jola,Akure,jolaakure@gmail.com,(+234) 9098765432,2024-10-22
+5,Efe,Johnson,efejohn@gmail.com,(+234) 7056789012,2024-07-25
+6,Ovie,Akpofure,a.ovie@gmail.com,(+234) 8145678901,2024-03-18
+7,Ehimare,Okon,okonehi@gmail.com,(+234) 8023456789,2024-11-10
+8,Treasure,Okotie,treasureokotie@gmail.com,(+234) 8167890123,2023-12-30
+9,Tonye,Briggs,briggst@gmail.com,(+234) 9076543210,2024-01-01
+10,Ketu,Amatse,ketuamatse@gmail.com,(+234) 8134567890,2024-12-15
+11,Jennifer,Okoro,okorojenny@gmail.com,(+234) 8182345678,2023-11-09
+12,Lola,Onos,lolaonos@gmail.com,(+234) 7067890123,2024-08-02
