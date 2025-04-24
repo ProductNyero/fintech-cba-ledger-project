@@ -31,3 +31,4 @@ It includes mock tables for customers, accounts, and transactions, with SQL quer
 - Querying several defined business use cases in mysql workbench
 - Creating a .sql file in visual studio code
   
+  
