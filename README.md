@@ -1,7 +1,7 @@
 # fintech-cba-ledger-project
 SQL queries and dummy data for a simple customer bank account ledger for a hypothetical fintech organization
 
-This is a beginner-friendly fintech SQL project that simulates a basic customer bank account ledger.  
+This is a fintech SQL project that simulates a basic customer bank account ledger.  
 It includes mock tables for customers, accounts, and transactions, with SQL queries to analyze transactions, amounts, sign ups, and customer ids.
 
 ## Tables
